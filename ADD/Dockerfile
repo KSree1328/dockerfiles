@@ -1,3 +1,4 @@
 FROM almalinux:9
 ADD https://github.com/KSree1328/SAPBTP/blob/main/README.md /tmp/
-ADD sample-1.tar
+ADD sample-1.tar /tmp/
+
