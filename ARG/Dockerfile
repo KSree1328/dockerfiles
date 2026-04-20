@@ -6,3 +6,4 @@ ARG COURSE="Docker" \
         AUTHOR="Jayadevops" 
         
 RUN echo "Trainer is: ${AUTHOR}"
+CMD ["sleep", "200"]
