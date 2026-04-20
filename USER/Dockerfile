@@ -1,5 +1,5 @@
 FROM almalinux:9
-RUN dng install nginx -y
+RUN dnf install nginx -y
 #root access require to create user or install packages
 RUN useradd roboshop
 
