@@ -2,4 +2,6 @@
 FROM almalinux:9
 LABEL COURSE="Docker" \
         TRAINER="Jaya" \
-        DURATION="10HRS" 
+        DURATION="10HRS" \
+        AUTHOR="Jayadevops" 
+        
